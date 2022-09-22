@@ -4,7 +4,8 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
-import com.example.apprevisao2.db.DBHelper
+import com.example.apprevisao.db.DBHelper
+
 
 class Resultado : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
